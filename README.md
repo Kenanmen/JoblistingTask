@@ -61,7 +61,8 @@ A job listing application built with **React**, **Next.js**, **TypeScript**, and
 
 # 1. Clone the repository
 
-git clone https://github.com/dagi97/joblisting_task7
+git clone https://github.com/Kenanmen7/JoblistingTask
+
 cd <your-project-folder>
 
 # 2. Install dependencies
